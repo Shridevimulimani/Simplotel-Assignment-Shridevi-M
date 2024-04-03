@@ -11,7 +11,6 @@ A simple web design as instructed by the Recruiter with respnsive media screen.
 
 Technologies used:
 *  Text-editor: Visual studio code
-*  Deployment-site: www.netlify.com
 *  Basic HTML and CSS
 
 ****
